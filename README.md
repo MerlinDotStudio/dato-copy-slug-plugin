@@ -1,2 +1,3 @@
-# dato-copy-slug-plugin
-Add's a button to slug fields that copies the slug to your clipboard
+# [Your plugin name]
+
+[Describe what your plugin does, and how users you can configure it! Screenshots are always welcome!]
